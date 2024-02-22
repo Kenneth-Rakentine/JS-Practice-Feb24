@@ -43,7 +43,7 @@ body {
   }
 
   .dropBtn:hover, .dropBtn:focus{
-    background-color: aquamarine;
+    background-color: rgb(70, 75, 126);
     transition: 2s ease-in-out;
   }
 
@@ -61,7 +61,7 @@ body {
     margin-top:10px;
     z-index:1;
     background-color:antiquewhite;
-    transition: 26s ease-in-out;
+    transition: .3s ease-in-out;
 
     /* border:solid black .5px; */
   }
